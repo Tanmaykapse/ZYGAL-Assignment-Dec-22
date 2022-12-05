@@ -22,4 +22,4 @@ $(document).ready(function() {
     $("#block3").css("background-color", color4);
     $("#block4").css("background-color", color1);
   });
-});6
+});
